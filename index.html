@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Snoopy</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header><h1>Snoopy</h1></header>
+    <main id="gallery" aria-live="polite">Loading…</main>
+
+    <div id="modal" class="modal" hidden role="dialog" aria-modal="true">
+      <div class="modal-content" role="document">
+        <button class="modal-close" aria-label="Close">&times;</button>
+        <img class="modal-image" alt="" />
+        <h2 class="modal-title"></h2>
+        <div class="modal-description"></div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
