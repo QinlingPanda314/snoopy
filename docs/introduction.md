@@ -1,4 +1,6 @@
 # Introduction
+By T.L.
+
 Welcome to the Snoopy Apple Watch Face Animations collection. This is the result of my long and arduous journey to collect all -- every single one -- of the Snoopy Apple Watch Face Animations. 
 
 The Snoopy Watch Face was first launched by Apple in collaboration with Charles M. Shultz studios to create a watch face that resonated deeply with artistic belief and a fundamental sense of creativity. This was, true to its name, inspired by the Snoopy comic strip that took the world by storm. In response to popular demand, Apple created a watch face that was instantly recognized and celebrated for its innocence, ingenuity, and complexity. 
@@ -14,10 +16,10 @@ Many humans raced to be the first to reveal all the animations. A playful childi
 To this day, I still do not know. Of the 148 animations, I have gathered 146; more than, I believe, any person has publicly gathered. And even the lists that have been published are missing many animations; they also plagerize web images, neglecting the hard work and commitment needed to collect a master catalogue. I believe my personal catalogue may indeed be on the right path; I have the most animations, to put it plainly, and one would be able to see that they are all unique.
 
 To gather these animations, I have noticed that they can be sorted into four primary groups.
-(A) "Everyday Animations" occur on a daily basis, without any reliably traced trigger. There are 89 of these, which is what most people witness, never to conjecture that there are 60 more animations. 
-(B) "Weather Triggered Animations" occur only when a specific atmospheric phenomenon has taken place, be it high winds, glaring sunshine, or freezing rain. There are 19 of these, yet I am missing one. 
-(C)"Time and Date Triggered Animations" can only reveal themselves on specific days of the year or times of the day. Holidays are especially susceptible to representation; Christmas, Halloween, Thanksgiving, and the New Year all make their debuts in this watch face.
-(D) "Watchmode Triggered Animations" occur only when a specific feature of the Apple Watch is enabled. For instance, Water Lock induces a diving Snoopy, and Cinema Mode causes Snoopy and Woodstock to eat popcorn in a movie theatre.
+**(A) "Everyday Animations"** occur on a daily basis, without any reliably traced trigger. There are 89 of these, which is what most people witness, never to conjecture that there are 60 more animations. 
+**(B) "Weather Triggered Animations"** occur only when a specific atmospheric phenomenon has taken place, be it high winds, glaring sunshine, or freezing rain. There are 19 of these, yet I am missing one. 
+**(C)"Time and Date Triggered Animations"** can only reveal themselves on specific days of the year or times of the day. Holidays are especially susceptible to representation; Christmas, Halloween, Thanksgiving, and the New Year all make their debuts in this watch face.
+**(D) "Watchmode Triggered Animations"** occur only when a specific feature of the Apple Watch is enabled. For instance, Water Lock induces a diving Snoopy, and Cinema Mode causes Snoopy and Woodstock to eat popcorn in a movie theatre.
 
 My achievement is not so much in my own dedication to this obscure subject, pursuing a goal that may not even be technologically possible. Some individuals may regard it in enough ridicule as to render it pointless. But an old maxim in life is: if a mystery is published or made known to the world, some people will try to solve it. They may do it in groups or alone, but their united goal is enough.
 
