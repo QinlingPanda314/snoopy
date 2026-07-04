@@ -3,36 +3,27 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Snoopy Apple Watch Face Animations — Gallery</title>
+    <title>Acknowledgements — Snoopy Apple Watch Face Animations</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="site-header">
       <nav class="site-nav">
         <a href="./introduction.html">Introduction</a>
-        <a href="./" aria-current="page">Gallery</a>
-        <a href="./acknowledgements.html">Acknowledgements</a>
+        <a href="./">Gallery</a>
+        <a href="./acknowledgements.html" aria-current="page">Acknowledgements</a>
       </nav>
       <h1 class="site-title">Snoopy Apple Watch Face Animations</h1>
       <p class="site-subtitle">The Complete Collection &amp; Catalogue</p>
     </header>
 
-    <main id="gallery" aria-live="polite">Loading…</main>
-
-    <div id="modal" class="modal" hidden role="dialog" aria-modal="true">
-      <div class="modal-content" role="document">
-        <button class="modal-close" aria-label="Close">&times;</button>
-        <img class="modal-image" alt="" />
-        <h2 class="modal-title"></h2>
-        <div class="modal-description"></div>
-      </div>
-    </div>
+    <main id="content" class="prose" data-src="docs/acknowledgements.md">Loading…</main>
 
     <footer class="site-footer">
       Snoopy © 2026 July 4. All rights reserved.
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="app.js" type="module"></script>
+    <script src="md-page.js"></script>
   </body>
 </html>
