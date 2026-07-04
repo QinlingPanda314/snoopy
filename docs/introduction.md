@@ -1,5 +1,5 @@
-# Introduction
-By T.L.
+# Introduction: The Snoopy Pilgrimage
+### By T.L.
 
 Welcome to the Snoopy Apple Watch Face Animations collection. This is the result of my long and arduous journey to collect all -- every single one -- of the Snoopy Apple Watch Face Animations. 
 
