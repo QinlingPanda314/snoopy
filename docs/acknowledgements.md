@@ -4,7 +4,7 @@ This collection could not have been realized without the help of many individual
 
 Thank you to Apple Co. for providing the basis of this entire project. With your contributions to technology and the digital wristwatch, my journey would have been impossible without you. Specifically, I offer my thanks to Steve Jobs and Steve Wozniak, who I will refer to by name due to their famous status. 
 
-Thank you to Charles M. Shultz Studios for creating the Snoopy comic. The artistic creativity involved has led me to pursue the completion of this website. Snoopy truly is a special beagle.
+Thank you to Charles M. Schulz Studios for creating the Snoopy comic. The artistic creativity involved has led me to pursue the completion of this website. Snoopy truly is a special beagle.
 
 Thank you to my dad for helping me create this website, all while watching the World Cup with me. I appreciate your helping me realize that my numbering in Github was wrong.
 
